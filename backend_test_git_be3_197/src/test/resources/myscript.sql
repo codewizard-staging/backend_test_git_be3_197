@@ -1,0 +1,1 @@
+CREATE SCHEMA IF NOT EXISTS test_git_be3;
